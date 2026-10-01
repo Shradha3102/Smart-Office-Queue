@@ -1,0 +1,19 @@
+# OS cruft
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backend, app and docker each keep their own, more specific .gitignore
+# (backend/.gitignore, app/.gitignore, app/<platform>/.gitignore).
